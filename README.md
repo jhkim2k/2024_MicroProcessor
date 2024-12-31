@@ -70,7 +70,7 @@
 
   -> IIS(Internet Information Service)
 
-  * 설정과정이라서 commit 안함.
+  *설정과정이라서 commit 안함.
 
   -> Static Web Page
 
