@@ -80,4 +80,4 @@
   
 - Project 18
 
-  -> IOT TC1047 CGI
+  -> IOT TC1047 CGI(Common Gateway Interface)
