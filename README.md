@@ -68,10 +68,12 @@
 ### Projects_CGI(Visual)
 - Project 16
 
-  -> IIS(Internet Information Service) + Static Web Page
+  -> IIS(Internet Information Service)
 
-  *설정과정이라서 commit 안함.
-  
+  * 설정과정이라서 commit 안함.
+
+  -> Static Web Page
+
 - Project 17
 
   -> Dynamic Web Page
