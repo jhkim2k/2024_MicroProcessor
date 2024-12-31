@@ -1,6 +1,6 @@
 # 2024_MicroProcessor
 
-ATmega2560 각 프로젝트 실습
+### ATmega2560 각 프로젝트 실습
 - Project 1
   
   -> GPIO PIN interface(LED control)
@@ -64,9 +64,18 @@ ATmega2560 각 프로젝트 실습
 - Project 15
 
   -> TWI(Two-Wire Interface) Device: TCN75
-  
+
+### Projects_CGI(Visual)
 - Project 16
 
-  -> IIS(Internet Information Service)
+  -> IIS(Internet Information Service) + Static Web Page
+
+  *설정과정이라서 commit 안함.
+  
 - Project 17
+
+  -> Dynamic Web Page
+  
 - Project 18
+
+  -> IOT TC1047 CGI
